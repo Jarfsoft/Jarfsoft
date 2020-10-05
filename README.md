@@ -26,7 +26,12 @@ Available for hiring.
 
 
 ## 🖥️ Relevant Projects
-
+<a href="https://github.com/Jarfsoft/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Jarfsoft&repo=Calculator" />
+</a>
+<a href="https://github.com/Jarfsoft/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Jarfsoft&repo=Etch-A-Sketch" />
+</a>
 
 
 Here are some ideas to get you started:
