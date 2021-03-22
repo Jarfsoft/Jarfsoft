@@ -1,4 +1,4 @@
-## Juan Raydales - Software Developer
+## Juan Raudales - Software Developer
 ### Hi there 👋
 
 My name is Juan. Front and back ends web developer working on own projects, improving constantly.
