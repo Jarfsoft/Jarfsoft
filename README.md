@@ -13,6 +13,9 @@ Available for hiring.
 
 📧 email: andresjex@hotmail.com
 
+## :briefcase: Projects' Portfolio
+
+[Portfolio](https://jarfsoft.github.io/Portfolio/)
 
 ### 🌱 I’m currently learning 
 
@@ -35,7 +38,3 @@ Available for hiring.
 <a href="https://github.com/Jarfsoft/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Jarfsoft&repo=Shooter-game" />
 </a>
-
-## :briefcase: Projects' Portfolio
-
-[Portfolio](https://jarfsoft.github.io/Portfolio/)
