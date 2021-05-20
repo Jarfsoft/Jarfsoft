@@ -2,7 +2,7 @@
 ### Hi there 👋
 
 My name is Juan. Front-end and Back-end web developer experienced in JavaScript, React and Ruby on Rails, improving constantly.
-Available for hiring.
+Available for hire.
 
 ### 💪 Current Goals: 
 
