@@ -17,14 +17,19 @@ Available for hire.
 
 [Portfolio](https://jarfsoft.github.io/Portfolio/)
 
-### 🌱 I’m currently learning 
+### :muscle: Mastered
 
 ![](https://img.shields.io/badge/Front--End-HTML-yellow)
 ![](https://img.shields.io/badge/Front--End-CSS-yellow)
 ![](https://img.shields.io/badge/Front--End-JavaScript-yellow)
+![](https://img.shields.io/badge/Back--End-ReactAndRedux-yellow)
 ![](https://img.shields.io/badge/Back--End-Ruby-orange)
 ![](https://img.shields.io/badge/Back--End-RubyOnRails-orange)
-![](https://img.shields.io/badge/Back--End-ReactAndRedux-orange)
+
+### 🌱 I’m currently learning 
+
+![](https://img.shields.io/badge/Front--End-Vue-yellow)
+![](https://img.shields.io/badge/Front--End-TypeScript-yellow)
 
 ### ⚡ Eye-Catching Facts: 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jarfsoft&theme=great-gatsby" />
