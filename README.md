@@ -30,6 +30,7 @@ Available for hire.
 
 ![](https://img.shields.io/badge/Front--End-Vue-yellow)
 ![](https://img.shields.io/badge/Front--End-TypeScript-yellow)
+![](https://img.shields.io/badge/Back--End-Elixir-orange)
 
 ### ⚡ Eye-Catching Facts: 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jarfsoft&theme=great-gatsby" />
