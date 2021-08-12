@@ -42,5 +42,5 @@ Available for hire.
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Jarfsoft&repo=Article-page" />
 </a>
 <a href="https://github.com/Jarfsoft/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Jarfsoft&repo=Shooter-game" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Jarfsoft&repo=catalogue_page" />
 </a>
