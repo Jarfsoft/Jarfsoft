@@ -38,9 +38,9 @@ Available for hire.
 
 
 ## 🖥️ Relevant Projects
-<a href="https://github.com/Jarfsoft/github-readme-stats">
+<a href="https://github.com/Jarfsoft/Article-page">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Jarfsoft&repo=Article-page" />
 </a>
-<a href="https://github.com/Jarfsoft/github-readme-stats">
+<a href="https://github.com/Jarfsoft/find-page">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Jarfsoft&repo=find-page" />
 </a>
